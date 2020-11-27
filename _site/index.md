@@ -2,8 +2,6 @@
 title: Marco Di Summa
 subtitle: Web Development
 logo: images/mds-logo-rgb200.svg
-
-
 ---
 
 <!DOCTYPE html>
