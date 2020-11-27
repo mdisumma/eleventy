@@ -1,3 +1,9 @@
+---
+title: Marco Di Summa
+subtitle: Web Development
+logo: images/mds-logo-rgb200.svg
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,11 +17,11 @@
 <body>
 <header>
     <div class="logo">
-        <img src="images/mds-logo-rgb200.svg">
+        <img src="{{logo}}">
     </div>
     <div class="masthead">
-        <h1>Marco Di&nbsp;Summa</h1>
-        <p>Web&nbsp;Development</p>
+        <h1>{{title}}</h1>
+        <p>{{subtitle}}</p>
     </div>
 </header>
 <nav>
