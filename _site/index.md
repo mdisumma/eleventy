@@ -2,12 +2,7 @@
 title: Marco Di Summa
 subtitle: Web Development
 logo: images/mds-logo-rgb200.svg
-data: Created
-tags:
-  - home 
-  - info
-  - varie
-  
+
 
 ---
 
@@ -22,7 +17,6 @@ tags:
     <title>Marco Di Summa</title>
 </head>
 <body>
-{{page.date.toUTCString()}}
 <header>
     <div class="logo">
         <img src="{{logo}}">
@@ -43,11 +37,7 @@ tags:
     </ul>
 </nav>
 <main>
-<ul>
- {% for item in tags %}
- <li>{{ item }}</li>
- {% endfor %}
-</ul>
+
 <h2>About me</h2>
 I am passionate for art and technology, and eager to turn this passion into a career.
 I built my foundation in graphic and web design at WAES (Westminster Adult Educational Service), and recently I have started a new exciting degree in web development at SAE Institute.
