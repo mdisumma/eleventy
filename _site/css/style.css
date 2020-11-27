@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Gruppo&family=Montserrat:ital,wght@0,400;0,600;1,300&display=swap");
 html {
   margin: 0 auto;
-  font-family: "Roboto Slab", serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 body {
@@ -71,7 +71,7 @@ header .masthead p {
     justify-content: space-evenly;
   }
   header .masthead .logo {
-    max-width: 500px;
+    max-width: 460px;
     padding: 0 2em;
     margin: 0;
   }
@@ -196,6 +196,9 @@ footer .social-menu a:hover {
     padding: 0.7em;
     font-size: 1.5em;
   }
+}
+body {
+  background-color: red;
 }
 
 /*# sourceMappingURL=style.css.map */

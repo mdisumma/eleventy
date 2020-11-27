@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "mdisumma.com",
   "scripts": {
-    "start": "eleventy --input=_site --output=dist --serve"
+    "start": "eleventy --serve"
+
   },
   "author": "Marco Di Summa",
   "license": "ISC",
