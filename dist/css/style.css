@@ -121,6 +121,9 @@ main {
   max-width: 960px;
   box-shadow: 5px 10px 15px #646464;
 }
+main body {
+  background-color: white;
+}
 main h1 {
   font-family: "Gruppo", cursive;
   font-size: 2em;
