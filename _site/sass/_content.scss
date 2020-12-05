@@ -1,10 +1,10 @@
-main {
+article {
         background-color: white;
         font-size: 1.5em;
         padding: 1em;
         margin:1em auto;
-        max-width: 960px;
-        box-shadow:5px 10px 15px $mid;
+        max-width:$desktop;
+        box-shadow:5px 10px 10px $mid;
     
     h1 {
         font-family: $head-style;
@@ -32,7 +32,7 @@ main {
         }
     
     ul {
-        max-width: 960px;
+        max-width: $desktop;
         padding:0;
         margin:0 auto;
         list-style: none; 
