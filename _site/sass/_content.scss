@@ -1,11 +1,11 @@
 main {
-    padding:2em;
+    padding:1.5em;
     background-color:lighten($background, 20); 
     article {
             background-color: white;
             font-size: 1.5em;
-            padding: 1em;
-            margin:1em auto;
+            padding: 2em;
+            margin:0 auto;
             max-width:$desktop;
             box-shadow:5px 10px 10px $dark;
         
@@ -22,5 +22,18 @@ main {
         }
     }
 }
+@media (max-width: $desktop) {
+    main {
+        font-size: 0.9em;
+        padding: 1em;
+    }
+}
+@media (max-width: $tablet) {
+    main {
+        font-size: 0.8em;
+        padding: 0.5em;
+    }
+}
+
 
 
