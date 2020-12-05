@@ -9,7 +9,7 @@ body {
   font-family: "Montserrat", sans-serif;
   min-width: 360px;
   color: #1a1a1a;
-  background-color: #fac000;
+  background-color: #ff3c00;
 }
 
 span {
@@ -39,7 +39,7 @@ header .masthead h1 {
 header .masthead p {
   margin: 0 auto;
   font-size: 2.6em;
-  color: #646464;
+  color: #c8c8c8;
 }
 
 @media (max-width: 620px) {
