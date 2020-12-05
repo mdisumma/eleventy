@@ -1,4 +1,5 @@
 nav  {
+    font-family: $head-style;
     background-color: $dark;
     ul {
         max-width: $desktop;
@@ -17,7 +18,7 @@ nav  {
             color:$light;
             }
             a:hover {
-                color:lighten($light, 20);
+                color:darken($light, 30);
                 font-weight:600;
                 text-decoration: underline;
             }
@@ -27,7 +28,11 @@ nav  {
 @media (max-width:$tablet) {
     nav {
         ul {
-        display:block;
+        display:grid;
+        grid-template-columns: 1fr 1fr 1fr;
+          li {
+            justify-content: center;
+          }
         }
     }
 }

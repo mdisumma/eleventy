@@ -2,7 +2,7 @@ $phone: 460px;
 $tablet: 620px;
 $desktop: 960px;
 
-$dark: rgb(26, 26, 26);
+$dark: rgb(25, 25, 25);
 $mid: rgb(140, 140, 140);
 $light: rgb(230, 230, 230);
 $background:rgb(40, 40, 40);
@@ -11,7 +11,7 @@ $body-style: 'Montserrat', sans-serif;
 
 html {
     margin: 0 auto;
-    font-family: 'Montserrat', sans-serif;
+    font-family: $body-style;
 }
 body {
     margin: 0;

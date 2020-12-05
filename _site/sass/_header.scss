@@ -25,6 +25,7 @@ header {
 }
 @media (max-width:$tablet) {
     header {
+        background-color: $dark;
         .masthead h1 {
             font-size:3.3em;
         }
