@@ -1,0 +1,32 @@
+[
+    {
+        "name": "linkedin",
+        "icon":"fab fa-linkedin-in",
+        "url": "https://www.linkedin.com/in/marco-di-summa-1a5146182/"
+    },
+    {
+        "name": "github",
+        "icon":"fab fa-github",
+        "url": "https://github.com/mdisumma"
+    },
+    {
+        "name": "codepen",
+        "icon":"fab fa-codepen",
+        "url": "https://codepen.io/mdisumma"
+    },
+    {
+        "name": "behance",
+        "icon":"fab fa-behance",
+        "url": "https://www.behance.net/marcodisumma"
+    },
+    {
+        "name": "twitter",
+        "icon":"fab fa-twitter",
+        "url": "https://twitter.com/MarcoDiSumma1"
+    },
+    {
+        "name": "email",
+        "icon":"far fa-envelopen",
+        "url": "mailto:mdisumma@yahoo.com"
+    }
+]
