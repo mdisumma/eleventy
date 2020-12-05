@@ -1,5 +1,5 @@
 main {
-    padding:1.5em;
+    padding:2em;
     background-color:lighten($background, 20); 
     article {
             background-color: white;
@@ -25,13 +25,13 @@ main {
 @media (max-width: $desktop) {
     main {
         font-size: 0.9em;
-        padding: 1em;
+        padding: 1.5em;
     }
 }
 @media (max-width: $tablet) {
     main {
         font-size: 0.8em;
-        padding: 0.5em;
+        padding: 1em;
     }
 }
 
