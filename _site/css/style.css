@@ -136,15 +136,10 @@ main article h2 {
   font-family: "Gruppo", cursive;
   font-size: 1.5em;
 }
-
-@media (max-width: 620px) {
-  main {
-    padding: 1em;
-  }
-  main ul {
-    display: block;
-  }
+main article p {
+  word-spacing: 0.1em;
 }
+
 footer {
   width: 100%;
   background-color: #1a1a1a;

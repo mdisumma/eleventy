@@ -17,13 +17,10 @@ main {
             font-family: $head-style;
             font-size:1.5em;
         }
-    }
-}
-@media (max-width:$tablet) {
-    main {
-        padding:1em;
-        ul {
-        display:block;
+        p {
+            word-spacing: 0.1em;
         }
     }
 }
+
+
