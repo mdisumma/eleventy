@@ -26,7 +26,7 @@
     },
     {
         "name": "email",
-        "icon":"far fa-envelopen",
-        "url": "mailto:mdisumma@yahoo.com"
+        "icon":"far fa-envelope",
+        "url": "mailto:mdisumma@yahoo.com/"
     }
 ]

@@ -9,6 +9,7 @@ body {
   font-family: "Montserrat", sans-serif;
   min-width: 360px;
   color: #1a1a1a;
+  background-color: #fac000;
 }
 
 span {
@@ -136,7 +137,10 @@ main h3 {
   font-family: "Montserrat", sans-serif;
   font-size: 1em;
 }
-main span {
+main em {
+  display: flex;
+  justify-content: flex-end;
+  color: #646464;
   font-size: 0.8em;
 }
 main a {
@@ -181,7 +185,7 @@ footer .social-menu {
   display: flex;
   padding: 1em;
   font-size: 2em;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 footer .social-menu a {
   text-decoration: none;
@@ -197,9 +201,6 @@ footer .social-menu a:hover {
     padding: 0.7em;
     font-size: 1.5em;
   }
-}
-body {
-  background-color: greenyellow;
 }
 
 /*# sourceMappingURL=style.css.map */

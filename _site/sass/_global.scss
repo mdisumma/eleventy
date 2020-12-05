@@ -5,7 +5,7 @@ $desktop: 960px;
 $dark: rgb(26, 26, 26);
 $mid: rgb(100, 100, 100);
 $light: rgb(200, 200, 200);
-
+$background:rgb(250, 192, 0);
 $head-style: 'Gruppo', cursive;
 $body-style: 'Montserrat', sans-serif;
 
@@ -18,7 +18,9 @@ body {
     font-family: $body-style;
     min-width: 360px;
     color: $dark;
+    background-color: $background;
 }
+
 span {
     display: flex;
     justify-content: flex-end;
