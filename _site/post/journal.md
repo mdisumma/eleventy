@@ -2,7 +2,7 @@
 css: ../../css/style.css
 siteTitle: Marco Di Summa
 title: Marco Di Summa
-subtitle: Journal
+subtitle: Reflective journal
 logo: ../../images/mds-logo-rgb200.svg
 articletitle: Journal
 # navigation
