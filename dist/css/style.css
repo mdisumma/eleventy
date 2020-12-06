@@ -16,7 +16,7 @@ em {
   padding: 1rem;
   display: flex;
   justify-content: flex-end;
-  color: #331400;
+  color: #626262;
 }
 
 header {
@@ -34,12 +34,12 @@ header .masthead h1 {
   padding-bottom: 1rem;
   margin: 0 auto;
   font-size: 4em;
-  color: #ff6600;
+  color: #c8c8c8;
 }
 header .masthead p {
   margin: 0 auto;
   font-size: 2.6em;
-  color: #993d00;
+  color: #959595;
 }
 
 @media (max-width: 620px) {
@@ -108,10 +108,10 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   text-transform: uppercase;
-  color: #ff6600;
+  color: #c8c8c8;
 }
 nav ul li a:hover {
-  color: #ff8533;
+  color: #e2e2e2;
   font-weight: 600;
   text-decoration: underline;
 }
@@ -141,15 +141,15 @@ main ol {
   margin: 1em auto;
 }
 main ol li {
-  color: #331400;
+  color: #626262;
 }
 main ol li a {
   text-decoration: none;
-  color: #331400;
+  color: #626262;
 }
 main ol li a:hover {
   text-decoration: underline;
-  color: #ff6600;
+  color: #c8c8c8;
 }
 main article {
   background-color: white;
@@ -224,10 +224,10 @@ footer .social-menu a {
   padding: 0.5em;
   text-decoration: none;
   text-transform: uppercase;
-  color: #ff6600;
+  color: #c8c8c8;
 }
 footer .social-menu a:hover {
-  color: #ff8533;
+  color: #e2e2e2;
 }
 
 @media (min-width: 960px) {
