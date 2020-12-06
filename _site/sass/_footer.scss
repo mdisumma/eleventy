@@ -6,7 +6,6 @@ footer  {
         margin:0 auto;
         background-color: $dark;
         display:flex;
-        
         font-size: 1.5em;
         justify-content: space-evenly;
         a {
@@ -19,5 +18,12 @@ footer  {
             color:darken($light, 30);
             
         }
+    }
+}
+@media (min-width: $desktop) {
+    footer {
+       .social-menu {
+          font-size:2em;
+       }
     }
 }

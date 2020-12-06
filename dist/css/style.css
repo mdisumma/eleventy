@@ -101,6 +101,7 @@ nav ul {
   justify-content: space-evenly;
 }
 nav ul li {
+  font-size: 1em;
   display: flex;
   padding: 1em 0.8em;
 }
@@ -121,7 +122,13 @@ nav ul li a:hover {
     grid-template-columns: 1fr 1fr 1fr;
   }
   nav ul li {
+    font-size: 1.2em;
     justify-content: center;
+  }
+}
+@media (min-width: 960px) {
+  nav ul li {
+    font-size: 1.3em;
   }
 }
 main {
@@ -180,6 +187,12 @@ footer .social-menu a {
 }
 footer .social-menu a:hover {
   color: #9a9a9a;
+}
+
+@media (min-width: 960px) {
+  footer .social-menu {
+    font-size: 2em;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
