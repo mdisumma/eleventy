@@ -207,6 +207,9 @@ main article p {
     font-size: 0.8em;
     padding: 1em;
   }
+  main ol {
+    display: none;
+  }
 }
 footer {
   width: 100%;
