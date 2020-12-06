@@ -1,11 +1,14 @@
+
+//size
 $phone: 460px;
 $tablet: 620px;
 $desktop: 960px;
-
-$dark: rgb(25, 25, 25);
-$mid: rgb(201, 80, 0);
+//colors
 $light: rgb(255, 102, 0);
-$background:rgb(40, 40, 40);
+$mid: darken($light, 20);
+$dark: rgb(25, 25, 25);
+$background:lighten($dark, 10);
+//fonts
 $head-style: 'Gruppo', cursive;
 $body-style: 'Montserrat', sans-serif;
 
