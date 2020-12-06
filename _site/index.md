@@ -20,8 +20,16 @@ articletitle: About me
 <!----------- header ------------>
 {% include "head.njk" %}
 
-<!----------- navigation ------------>
-{% include "nav.njk" %}
+<nav>
+    <ul class="navigation">
+        <li><a href="index.html">About</a></li>
+        <li><a href="post/info/index.html">Info</a></li>
+        <li><a href="post/journal/index.html">journal</a></li>
+        <li><a href="post/articles/index.html">Articles</a></li>
+        <li><a href="post/projects/index.html">Projects</a></li>
+        <li><a href="post/contacts/index.html">Contacts</a></li>
+    </ul>
+</nav>
 
 
 <!----------- main ------------>
