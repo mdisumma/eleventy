@@ -1,10 +1,10 @@
 footer  {
     width: 100%;
-    background-color:$dark;
+    background-color:$neutral;
     .social-menu {
         max-width:$desktop;
         margin:0 auto;
-        background-color: $dark;
+        background-color: $neutral;
         display:flex;
         font-size: 1.5em;
         justify-content: space-around;
@@ -12,10 +12,10 @@ footer  {
             padding: 0.5em;
             text-decoration: none;
             text-transform: uppercase;
-            color:$light;
+            color:$color;
         }
         a:hover {
-            color:lighten($light, 10);
+            color:lighten($color, 10);
             
         }
     }

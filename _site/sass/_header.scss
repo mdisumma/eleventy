@@ -3,28 +3,28 @@ header {
     max-width: $desktop;
     text-align: center;
     padding:1em;
-    color: $dark;
+    color: $neutral;
     .logo {
         width: 30%;
         margin: 0 auto;
     }
     .masthead h1{
-        font-family: $head-style;
+        font-family: $header-style;
         padding-bottom: 1rem;
         margin: 0 auto;
         font-size: 4em;
-        color: $light;
+        color: $color;
     }
     .masthead p {
         margin:0 auto;
         font-size:2.6em;
-        color: $mid;
+        color: $header;
     }
    
 }
 @media (max-width:$tablet) {
     header {
-        background-color: $dark;
+        background-color: $neutral;
         .masthead h1 {
             font-size:3.3em;
         }
@@ -35,7 +35,7 @@ header {
 }
 @media (max-width:$phone) {
     header {
-       background-color: $dark; 
+       background-color: $neutral; 
         .masthead {
           display:none;
         }
@@ -48,7 +48,7 @@ header {
         margin:4em auto;
         .masthead {
             padding:0 2em;
-            border-left: 2px solid $dark;
+            border-left: 2px solid $neutral;
             display:flex;
             flex-direction: column; 
             justify-content: space-evenly;

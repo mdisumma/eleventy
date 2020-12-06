@@ -7,14 +7,14 @@ main {
             padding: 2em;
             margin:0 auto;
             max-width:$desktop;
-            box-shadow:5px 10px 10px $dark;
+            box-shadow:5px 10px 10px $neutral;
         
         h1 {
-            font-family: $head-style;
+            font-family: $header-style;
             font-size:2em;    
         }
         h2 {
-            font-family: $head-style;
+            font-family: $header-style;
             font-size:1.5em;
         }
         p {

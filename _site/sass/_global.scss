@@ -4,12 +4,12 @@ $phone: 460px;
 $tablet: 620px;
 $desktop: 960px;
 //colors
-$light: rgb(255, 102, 0);
-$mid: darken($light, 20);
-$dark: rgb(25, 25, 25);
-$background:lighten($dark, 10);
+$color: rgb(255, 102, 0);
+$header: darken($color, 20);
+$neutral: rgb(25, 25, 25);
+$background:lighten($neutral, 10);
 //fonts
-$head-style: 'Gruppo', cursive;
+$header-style: 'Gruppo', cursive;
 $body-style: 'Montserrat', sans-serif;
 
 html {
@@ -20,7 +20,7 @@ body {
     margin: 0;
     font-family: $body-style;
     min-width: 360px;
-    color: $dark;
+    color: $neutral;
     background-color: $background;
 }
 
@@ -28,5 +28,5 @@ em {
     padding:1rem;
     display: flex;
     justify-content: flex-end;
-    color: $dark;
+    color: $neutral;
 }
