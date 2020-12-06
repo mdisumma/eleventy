@@ -118,6 +118,7 @@ nav ul li a:hover {
 
 @media (max-width: 620px) {
   nav ul {
+    margin: 0 0.5em;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
   }

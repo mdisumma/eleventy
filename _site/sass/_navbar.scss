@@ -30,6 +30,7 @@ nav  {
 @media (max-width:$tablet) {
     nav {
         ul {
+        margin:0 0.5em;
         display:grid;
         grid-template-columns: 1fr 1fr 1fr;
           li {
