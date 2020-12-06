@@ -16,7 +16,7 @@ em {
   padding: 1rem;
   display: flex;
   justify-content: flex-end;
-  color: #626262;
+  color: #c8c8c8;
 }
 
 header {
@@ -111,7 +111,7 @@ nav ul li a {
   color: #c8c8c8;
 }
 nav ul li a:hover {
-  color: #e2e2e2;
+  color: white;
   font-weight: 600;
   text-decoration: underline;
 }
@@ -227,7 +227,7 @@ footer .social-menu a {
   color: #c8c8c8;
 }
 footer .social-menu a:hover {
-  color: #e2e2e2;
+  color: white;
 }
 
 @media (min-width: 960px) {

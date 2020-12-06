@@ -20,7 +20,7 @@ nav  {
             color:$color;
             }
             a:hover {
-                color:lighten($color, 10);
+                color:lighten($color, 50);
                 font-weight:600;
                 text-decoration: underline;
             }
