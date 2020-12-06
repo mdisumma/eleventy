@@ -4,7 +4,7 @@ siteTitle: Marco Di Summa
 title: Marco Di Summa
 subtitle: Projects
 logo: ../../images/mds-logo-rgb200.svg
-articletitle: Projects
+articletitle: Presentation
 # navigation
 about: "../../index.html"
 info: "../../post/info/index.html"
@@ -21,11 +21,20 @@ essay: "../../post/essay/index.html"
 {% include "template-post.njk" %}
 <!----------- main ------------>
 <main> 
-<article>
+
 
 # {{ articletitle }}
 
-</article> 
+<video controls>
+  <source src="../../images/color-theory.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls>
+  <source src="../../images/media_presentation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 *Thank you for visiting mdisumma.com*
 

@@ -136,6 +136,12 @@ main {
   padding: 2em;
   background-color: #7f7f7f;
 }
+main video {
+  display: block;
+  margin: 3em auto;
+  width: 80%;
+  justify-content: center;
+}
 main ol {
   max-width: 960px;
   margin: 1em auto;
