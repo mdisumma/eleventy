@@ -21,7 +21,6 @@ em {
 
 header {
   max-width: 960px;
-  width: 100%;
   text-align: center;
   padding: 1em;
   color: #191919;
@@ -178,7 +177,7 @@ footer .social-menu {
   background-color: #191919;
   display: flex;
   font-size: 1.5em;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 footer .social-menu a {
   padding: 0.5em;
