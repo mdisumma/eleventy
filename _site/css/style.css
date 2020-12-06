@@ -89,6 +89,7 @@ header .masthead p {
   }
 }
 nav {
+  width: 100%;
   font-family: "Gruppo", cursive;
   background-color: #191919;
 }
