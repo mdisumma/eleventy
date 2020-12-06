@@ -15,7 +15,32 @@ main {
         }
         h2 {
             font-family: $header-style;
-            font-size:1.5em;
+            font-size:1.7em;
+        }
+        h3 {
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+            font-family: $header-style;
+            font-size:1.7em;
+        }
+        h4 {
+            font-family: $body-style;
+            font-size:0.8em;
+        }
+        ul {
+            margin:0;
+            margin-bottom: 1em;
+        }
+        li {
+            font-family: $body-style;
+            font-size:1em;
+        }
+        em {
+            margin: 0.5em 0;;
+            padding:0;
+            justify-content: flex-start;
+            font-family: $body-style;
+            font-size:0.8em; 
         }
         p {
             word-spacing: 0.1em;

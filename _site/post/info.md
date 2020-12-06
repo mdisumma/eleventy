@@ -23,7 +23,40 @@ contacts: "../../post/contacts/index.html"
 <main> 
 <article>
 
-# {{ articletitle }}
+
+### Personal statement
+Passionate for art and technology, and eager to turn this passion into a career. I built my foundation in graphic and web design at WAES (Westminster Adult Educational Service), and recently I have started a new exciting degree in web development at SAE Institute.
+
+### Computer skills
+- HTML5
+- CSS3
+- Adobe InDesign
+- Adobe Illustrator
+- Adobe Photoshop
+
+### Education
+Liceo Artistico Diploma (Italy)
+
+*2018-2019* 
+Web Design design L1 
+
+Graphic design L1
+
+*2019-2020*
+Graphic design Diploma
+
+Creative media L2
+
+### Volunteer
+*2018-2020* 
+WAES (Westminster Adult Educational Center)
+### Tranferable skills
+
+*2000-2012* 
+Taverna Di Bacco (Italy)
+
+*2014-2018*
+Chef Private Family (UK)
 
 </article> 
 

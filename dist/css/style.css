@@ -150,7 +150,32 @@ main article h1 {
 }
 main article h2 {
   font-family: "Gruppo", cursive;
-  font-size: 1.5em;
+  font-size: 1.7em;
+}
+main article h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-family: "Gruppo", cursive;
+  font-size: 1.7em;
+}
+main article h4 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.8em;
+}
+main article ul {
+  margin: 0;
+  margin-bottom: 1em;
+}
+main article li {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1em;
+}
+main article em {
+  margin: 0.5em 0;
+  padding: 0;
+  justify-content: flex-start;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.8em;
 }
 main article p {
   word-spacing: 0.1em;
