@@ -1,36 +1,24 @@
 ---
+css: css/style.css
 siteTitle: Marco Di Summa
 title: Marco Di Summa
 subtitle: Web Development
 logo: images/mds-logo-rgb200.svg
 articletitle: About me
+# navigation
+about: "index.html"
+info: "post/info/index.html"
+journal: "post/journal/index.html"
+articles: "post/articles/index.html"
+projects: "post/projects/index.html"
+contacts: "post/contacts/index.html"
 ---
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="css/style.css" rel="stylesheet">
-    <link rel="icon" type="image/png" href="images/mds-logo.png" sizes="16x16">
-    <script src="https://kit.fontawesome.com/45bfc94cb4.js" crossorigin="anonymous"></script>
-    <title> {{siteTitle}}--{{title}} </title>
-</head>
-<body>
-<!----------- header ------------>
 {% include "head.njk" %}
-
-<nav>
-    <ul class="navigation">
-        <li><a href="index.html">About</a></li>
-        <li><a href="post/info/index.html">Info</a></li>
-        <li><a href="post/journal/index.html">journal</a></li>
-        <li><a href="post/articles/index.html">Articles</a></li>
-        <li><a href="post/projects/index.html">Projects</a></li>
-        <li><a href="post/contacts/index.html">Contacts</a></li>
-    </ul>
-</nav>
-
+<body>
+{% include "template-post.njk" %}
 
 <!----------- main ------------>
 <main> 
@@ -47,7 +35,6 @@ During this time of uncertainty, I want to remind everyone how important it is t
 *Thank you for visiting mdisumma.com*
 
 </main>
-
 <!-- ----------footer---------- -->
 {% include "social.njk" %}
 </body>
