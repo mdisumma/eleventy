@@ -16,7 +16,7 @@ em {
   padding: 1rem;
   display: flex;
   justify-content: flex-end;
-  color: #8c8c8c;
+  color: #191919;
 }
 
 header {
@@ -35,12 +35,12 @@ header .masthead h1 {
   padding-bottom: 1rem;
   margin: 0 auto;
   font-size: 4em;
-  color: #e6e6e6;
+  color: #ff6600;
 }
 header .masthead p {
   margin: 0 auto;
   font-size: 2.6em;
-  color: #8c8c8c;
+  color: #c95000;
 }
 
 @media (max-width: 620px) {
@@ -108,10 +108,10 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   text-transform: uppercase;
-  color: #e6e6e6;
+  color: #ff6600;
 }
 nav ul li a:hover {
-  color: #9a9a9a;
+  color: #ff8533;
   font-weight: 600;
   text-decoration: underline;
 }
@@ -183,10 +183,10 @@ footer .social-menu a {
   padding: 0.5em;
   text-decoration: none;
   text-transform: uppercase;
-  color: #e6e6e6;
+  color: #ff6600;
 }
 footer .social-menu a:hover {
-  color: #9a9a9a;
+  color: #ff8533;
 }
 
 @media (min-width: 960px) {

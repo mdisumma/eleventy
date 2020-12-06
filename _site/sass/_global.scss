@@ -3,8 +3,8 @@ $tablet: 620px;
 $desktop: 960px;
 
 $dark: rgb(25, 25, 25);
-$mid: rgb(140, 140, 140);
-$light: rgb(230, 230, 230);
+$mid: rgb(201, 80, 0);
+$light: rgb(255, 102, 0);
 $background:rgb(40, 40, 40);
 $head-style: 'Gruppo', cursive;
 $body-style: 'Montserrat', sans-serif;
@@ -25,5 +25,5 @@ em {
     padding:1rem;
     display: flex;
     justify-content: flex-end;
-    color: $mid;
+    color: $dark;
 }
