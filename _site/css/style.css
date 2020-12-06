@@ -138,6 +138,7 @@ main {
 }
 main ol {
   max-width: 960px;
+  margin: 1em auto;
 }
 main ol li {
   color: #331400;

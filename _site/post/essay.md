@@ -2,16 +2,16 @@
 css: ../../css/style.css
 siteTitle: Marco Di Summa
 title: Marco Di Summa
-subtitle: Contacts
+subtitle: Essay
 logo: ../../images/mds-logo-rgb200.svg
-articletitle: Contacts
+articletitle: Essay
 # navigation
 about: "../../index.html"
 info: "../../post/info/index.html"
 journal: "../../post/journal/index.html"
 articles: "../../post/articles/index.html"
 projects: "../../post/projects/index.html"
-contacts: "../../post/contacts/index.html"
+essay: "../../post/essay/index.html"
 ---
 
 <!DOCTYPE html>
@@ -21,6 +21,10 @@ contacts: "../../post/contacts/index.html"
 {% include "template-post.njk" %}
 <!----------- main ------------>
 <main> 
+<ol> 
+  <li><a href="#"></a></li>
+  <li><a href="#"></a></li>
+</ol>
 <article>
 
 # {{ articletitle }}

@@ -12,7 +12,7 @@ info: "../../post/info/index.html"
 journal: "../../post/journal/index.html"
 articles: "../../post/articles/index.html"
 projects: "../../post/projects/index.html"
-contacts: "../../post/contacts/index.html"
+essay: "../../post/essay/index.html"
 ---
 
 <!DOCTYPE html>

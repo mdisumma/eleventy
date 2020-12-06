@@ -3,6 +3,7 @@ main {
     background-color:lighten($background, 30);
     ol {
         max-width: $desktop;
+        margin: 1em auto;
         li {
             color: darken($color, 40);
             a {
