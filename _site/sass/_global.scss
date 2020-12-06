@@ -28,5 +28,5 @@ em {
     padding:1rem;
     display: flex;
     justify-content: flex-end;
-    color: $neutral;
+    color: darken($color, 40);
 }

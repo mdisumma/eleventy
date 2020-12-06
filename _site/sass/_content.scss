@@ -1,6 +1,20 @@
 main {
     padding:2em;
-    background-color:lighten($background, 30); 
+    background-color:lighten($background, 30);
+    ol {
+        max-width: $desktop;
+        li {
+            color: darken($color, 40);
+            a {
+                text-decoration: none;
+                color: darken($color, 40);
+            }
+            a:hover {
+                text-decoration: underline;
+                color: $color;
+            }
+        } 
+    } 
     article {
             background-color: white;
             font-size: 1.5em;
@@ -15,13 +29,13 @@ main {
         }
         h2 {
             font-family: $header-style;
-            font-size:1.7em;
+            font-size:2em;
         }
         h3 {
-            margin-top: 1.5em;
+            margin-top: 1.2em;
             margin-bottom: 0.5em;
             font-family: $header-style;
-            font-size:1.7em;
+            font-size:2em;
         }
         h4 {
             font-family: $body-style;
@@ -31,9 +45,10 @@ main {
             margin:0;
             margin-bottom: 1em;
         }
+        
         li {
             font-family: $body-style;
-            font-size:1em;
+            font-size:0.9em;
         }
         em {
             margin: 0.5em 0;;

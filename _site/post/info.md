@@ -38,25 +38,25 @@ Passionate for art and technology, and eager to turn this passion into a career.
 Liceo Artistico Diploma (Italy)
 
 *2018-2019* 
-Web Design design L1 
+- Web Design design L1 
 
-Graphic design L1
+- Graphic design L1
 
 *2019-2020*
-Graphic design Diploma
+- Graphic design Diploma
 
-Creative media L2
+- Creative media L2
 
 ### Volunteer
 *2018-2020* 
-WAES (Westminster Adult Educational Center)
+- WAES (Westminster Adult Educational Center)
 ### Tranferable skills
 
 *2000-2012* 
-Taverna Di Bacco (Italy)
+- Taverna Di Bacco (Italy)
 
 *2014-2018*
-Chef Private Family (UK)
+- Chef Private Family (UK)
 
 </article> 
 
