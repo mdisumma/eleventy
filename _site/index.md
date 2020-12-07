@@ -2,7 +2,8 @@
 layout: base
 css: css/style.css
 siteTitle: Marco Di Summa
-title: Home
+pageTitle: Home
+title: Marco Di Summa
 subtitle: Web Development
 logo: images/mds-logo-rgb200.svg
 articletitle: About me

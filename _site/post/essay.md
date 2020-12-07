@@ -2,7 +2,8 @@
 layout: base
 css: ../../css/style.css
 siteTitle: Marco Di Summa
-title: Essay
+pageTitle: Essay
+title: Marco Di Summa
 subtitle: Comparative paper
 logo: ../../images/mds-logo-rgb200.svg
 articletitle: Comparing WordPress and Jamstack

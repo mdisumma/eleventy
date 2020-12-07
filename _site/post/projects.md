@@ -2,7 +2,8 @@
 layout: base
 css: ../../css/style.css
 siteTitle: Marco Di Summa
-title: Projects
+pageTitle: Projects
+title: Marco Di Summa
 subtitle: Projects
 logo: ../../images/mds-logo-rgb200.svg
 articletitle: Presentation

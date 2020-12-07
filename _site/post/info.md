@@ -2,7 +2,8 @@
 layout: base
 css: ../../css/style.css
 siteTitle: Marco Di Summa
-title: Info
+pageTitle: Info
+title: Marco Di Summa
 subtitle: Curriculum
 logo: ../../images/mds-logo-rgb200.svg
 articletitle: Curriculum
