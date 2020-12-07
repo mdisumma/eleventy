@@ -1,25 +1,12 @@
 ---
 layout: base
-css: ../../css/style.css
-siteTitle: Marco Di Summa
 pageTitle: Info
-title: Marco Di Summa
 subtitle: Curriculum
-logo: ../../images/mds-logo-rgb200.svg
 articletitle: Curriculum
-# navigation
-about: "../../index.html"
-info: "../../post/info/index.html"
-journal: "../../post/journal/index.html"
-articles: "../../post/articles/index.html"
-projects: "../../post/projects/index.html"
-essay: "../../post/essay/index.html"
 ---
-
 
 <main> 
 <article>
-
 
 ### Personal statement
 Passionate for art and technology, and eager to turn this passion into a career.Therefore, I built my foundation in graphic and web design at Westminster Adult Educational Service (WAES) and recently, I have started a new exciting degree in web development at SAE Institute.
@@ -29,7 +16,6 @@ Passionate for art and technology, and eager to turn this passion into a career.
 - Adobe InDesign
 - Adobe Illustrator
 - Adobe Photoshop
-
 ### Education
 Liceo Artistico Diploma (Italy)
 
