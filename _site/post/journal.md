@@ -30,13 +30,13 @@ essay: "../../post/essay/index.html"
 <div id="blog-1">
 
 ## Students should introduce themselves and outline their career aspiration.
-Although I remember myself having my first working experience when I was in secondary school, I never had much thought about career aspiration. I grow up in the family business, and I got busy working very soon, so after the diploma, I was already a skilled chef even dough my studying was in art and design.
+Although, I remember myself having my first working experience when I was in secondary school, I never had much thought about career aspiration. I grew up in the family business, and I got busy working very soon, so after the diploma, I was already a skilled chef even though my studying was in art and design.
 
-At that time, I didn’t mind to be involved, my family have been through some trouble, and I was eager to do my part. When things got better, I realise that I spent years in that state of acceptance, and I felt like those horses with blinders pulling carriages, and my priorities in life except for the sense of responsibility were numb.
+At that time, I didn’t mind to be involved as my family was going through some trouble and I was eager to do my part. When things got better, I realise that I spent years in that state of acceptance, just like those horses with blinders pulling carriages, and my priorities in life except for the sense of responsibility, were numb.
 
-I admit I had to stretch a bit the muscle of my memory looking for bits of personality lost on my way. The first step was to get back in education, memories from college remind me, my talent for technical drawing and how fun it was to define solution related to functionality during the design process.
+Admitedly, I had to stretch a bit the muscle of my memory looking for bits of my personality that have been lost. The first step was to get back in education, memories from college remind me of my talent for technical drawing and how fun it was to define solutions related to functionality during the design process.
 
-I spent the last two years committed in self-development, and I studied web and graphic design as a result of my passion for art and technology. Still, most important, I allowed myself to set a new starting point to develop a career that reflects better my qualities and aspiration.
+Therefore, spent the last two years committed in self-development, I studied web and graphic design as a result of my passion for art and technology. Still, most important, I allowed myself to set a new starting point to develop a career that reflects my qualities and aspiration.
 </div>
 <div id="blog-2">
 
