@@ -5,7 +5,7 @@ subtitle: Comparative paper
 articletitle: Comparing WordPress and Jamstack
 
 #download
-pdf: "../../images/comparative-paper.pdf"
+pdf: "../../assets/comparative-paper.pdf"
 ---
 
 

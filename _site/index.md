@@ -5,7 +5,7 @@ siteTitle: Marco Di Summa
 pageTitle: Home
 title: Marco Di Summa
 subtitle: Web Development
-logo: images/mds-logo-rgb200.svg
+logo: assets/mds-logo-rgb200.svg
 articletitle: About me
 # navigation
 about: "index.html"
