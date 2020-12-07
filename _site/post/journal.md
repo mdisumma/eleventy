@@ -41,11 +41,11 @@ Therefore, spent the last two years committed in self-development, I studied web
 <div id="blog-2">
 
 ## Students should discuss and reflect upon previous work and learning experience relevant to their career.
-During the time spent in college studying web and graphic design, I was determinate to improve my skills at my best and get better from some mental health condition. I was seeking a place to practising my studying and release social anxiety, so I started to volunteer as a teacher assistant in the same department of the college where I was studying.
+During the time spent in college, studying web and graphic design, I was determinate to improve my skills and maintain wellbehing. I was seeking a place to practising my studying and overcome social anxiety, so I started to volunteer as a teacher assistant in the same department of the college where I was studying.
 
-The experience of learning and support helps me to understand better the power of sharing with others because when like-minded people come together, they usually complete the knowledge of each other, and mutual support becomes the key to grow up as a community, leaving nobody behind.
+The experience of learning and support helps me to understand the power of sharing with others because when like-minded people come together, they usually complement the knowledge of each other, and mutual support becomes the key to grow as a community, leaving nobody behind.
 
-It is essential also to understand how the working environment affects worker and their performances. Also, how the implementation of British values can instruct professionals to comply with colleagues properly works in the interest of the company to create the best condition to express everyone’s potential and avoid disruption in the workflow.
+Also, it is essential to understand how the working environment affects workers and their performances. The implementation of British values can instruct professionals to comply with their colleagues to work properly. This is in the interest of the company to create the best condition to express everyone’s potential and avoid disruption in the workflow.
 </div>
 <div id="blog-3">
 
