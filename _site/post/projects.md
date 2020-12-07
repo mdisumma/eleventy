@@ -6,7 +6,6 @@ articletitle: Presentation
 
 ---
 
-
 <main> 
 <video controls>
   <source src= "../../assets/color-theory.mp4" type="video/mp4">

@@ -5,8 +5,6 @@ subtitle: Articles
 articletitle: Articles
 ---
 
-
-<!----------- main ------------>
 <main>
 <ol> 
   <li><a href="#learning-style">What is your learning style?</a></li>

@@ -8,7 +8,6 @@ articletitle: Comparing WordPress and Jamstack
 pdf: "../../assets/comparative-paper.pdf"
 ---
 
-
 <main> 
 <ol> 
   <li><a href={{pdf}} download>Dowload PDF</a></li>
