@@ -1,10 +1,12 @@
 ---
+layout: base
 css: ../../css/style.css
 siteTitle: Marco Di Summa
 title: Marco Di Summa
 subtitle: Comparative paper
 logo: ../../images/mds-logo-rgb200.svg
 articletitle: Comparing WordPress and Jamstack
+
 # navigation
 about: "../../index.html"
 info: "../../post/info/index.html"
@@ -16,12 +18,7 @@ essay: "../../post/essay/index.html"
 pdf: "../../images/comparative-paper.pdf"
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-{% include "head.njk" %}
-<body>
-{% include "template-post.njk" %}
-<!----------- main ------------>
+
 <main> 
 <ol> 
   <li><a href={{pdf}} download>Dowload PDF</a></li>
@@ -38,7 +35,4 @@ pdf: "../../images/comparative-paper.pdf"
 *Thank you for visiting mdisumma.com*
 
 </main>
-<!-- ----------footer---------- -->
-{% include "social.njk" %}
-</body>
-</html>
+

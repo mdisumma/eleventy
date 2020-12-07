@@ -1,10 +1,12 @@
 ---
+layout: base
 css: ../../css/style.css
 siteTitle: Marco Di Summa
 title: Marco Di Summa
 subtitle: Reflective journal
 logo: ../../images/mds-logo-rgb200.svg
 articletitle: Journal
+
 # navigation
 about: "../../index.html"
 info: "../../post/info/index.html"
@@ -14,12 +16,7 @@ projects: "../../post/projects/index.html"
 essay: "../../post/essay/index.html"
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-{% include "head.njk" %}
-<body>
-{% include "template-post.njk" %}
-<!----------- main ------------>
+
 <main> 
 <ol> 
   <li><a href="#blog-1">Students should introduce themselves and outline their career aspiration.</a></li>
@@ -59,7 +56,3 @@ Where I struggled more was the academic writhing and reflective portfolio, despi
 *Thank you for visiting mdisumma.com*
 
 </main>
-<!-- ----------footer---------- -->
-{% include "social.njk" %}
-</body>
-</html>

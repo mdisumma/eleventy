@@ -1,4 +1,5 @@
 ---
+layout: base
 css: ../../css/style.css
 siteTitle: Marco Di Summa
 title: Marco Di Summa
@@ -14,12 +15,7 @@ projects: "../../post/projects/index.html"
 essay: "../../post/essay/index.html"
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-{% include "head.njk" %}
-<body>
-{% include "template-post.njk" %}
-<!----------- main ------------>
+
 <main> 
 <article>
 
@@ -62,7 +58,4 @@ Liceo Artistico Diploma (Italy)
 *Thank you for visiting mdisumma.com*
 
 </main>
-<!-- ----------footer---------- -->
-{% include "social.njk" %}
-</body>
-</html>
+
