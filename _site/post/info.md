@@ -25,8 +25,7 @@ essay: "../../post/essay/index.html"
 
 
 ### Personal statement
-Passionate for art and technology, and eager to turn this passion into a career. I built my foundation in graphic and web design at WAES (Westminster Adult Educational Service), and recently I have started a new exciting degree in web development at SAE Institute.
-
+Passionate for art and technology, and eager to turn this passion into a career.Therefore, I built my foundation in graphic and web design at Westminster Adult Educational Service (WAES) and recently, I have started a new exciting degree in web development at SAE Institute.
 ### Computer skills
 - HTML5
 - CSS3
