@@ -54,11 +54,13 @@ main {
         }
         
         li {
+            margin: 0.5em 0;
             font-family: $body-style;
             font-size:0.9em;
         }
         em {
-            margin: 0.5em 0;;
+            color: lighten($neutral, 30);
+            margin: 0.5em 0;
             padding:0;
             justify-content: flex-start;
             font-family: $body-style;

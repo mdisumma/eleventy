@@ -188,10 +188,12 @@ main article ul {
   margin-bottom: 1em;
 }
 main article li {
+  margin: 0.5em 0;
   font-family: "Montserrat", sans-serif;
   font-size: 0.9em;
 }
 main article em {
+  color: #666666;
   margin: 0.5em 0;
   padding: 0;
   justify-content: flex-start;
