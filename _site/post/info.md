@@ -19,7 +19,7 @@ Passionate for art and technology, and eager to turn this passion into a career.
 - Adobe Photoshop
 
 ### Education
-Liceo Artistico Diploma (Italy)
+- Liceo Artistico Diploma (Italy)
 
 *2018-2019* 
 - Web Design design L1
