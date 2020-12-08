@@ -133,6 +133,7 @@ nav ul li a:hover {
   }
 }
 main {
+  margin: 0 auto;
   padding: 2em;
   background-color: #7f7f7f;
 }
@@ -143,21 +144,28 @@ main video {
   justify-content: center;
 }
 main ol {
+  display: flex;
   max-width: 960px;
-  margin: 1em auto;
+  margin: 0 auto;
+  padding: 0;
 }
 main ol li {
-  color: #2f2f2f;
+  flex: 2 1 auto;
+  list-style: none;
+  text-align: center;
+  padding: 1em 0;
+  background-color: #191919;
 }
 main ol li a {
   text-decoration: none;
-  color: #2f2f2f;
+  color: #666666;
 }
 main ol li a:hover {
   text-decoration: underline;
   color: #c8c8c8;
 }
 main article {
+  box-sizing: border-box;
   background-color: white;
   font-size: 1.5em;
   padding: 2em;

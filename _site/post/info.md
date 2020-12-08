@@ -6,6 +6,9 @@ articletitle: Curriculum
 ---
 
 <main> 
+<ol> 
+  <li><a href={{pdf}} download>Dowload PDF</a></li>
+</ol>
 <article>
 
 ## Personal statement
@@ -47,9 +50,7 @@ I spent the last 20 years working in  hospitality. As a chef I developed a stron
 *2014-2018*
 - Chef Private Family (UK)
 
-<hr>
 
-<a href="#" download>*Dowload PDF*</a>
 
 </article> 
 
