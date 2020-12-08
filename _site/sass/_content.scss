@@ -19,10 +19,10 @@ main {
             list-style: none;
             text-align: center;
             padding: 1em 0;
-            background-color: $neutral;
+            background-color: $header;
             a {
                 text-decoration: none;
-                color: lighten($neutral, 30);
+                color: $color;
             }
             a:hover {
                 text-decoration: underline;

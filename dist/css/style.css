@@ -154,11 +154,11 @@ main ol li {
   list-style: none;
   text-align: center;
   padding: 1em 0;
-  background-color: #191919;
+  background-color: #959595;
 }
 main ol li a {
   text-decoration: none;
-  color: #666666;
+  color: #c8c8c8;
 }
 main ol li a:hover {
   text-decoration: underline;
