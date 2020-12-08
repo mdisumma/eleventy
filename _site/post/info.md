@@ -8,8 +8,11 @@ articletitle: Curriculum
 <main> 
 <article>
 
-### Personal statement
+## Personal statement
+<hr>
+
 Passionate for art and technology, and eager to turn this passion into a career.Therefore, I built my foundation in graphic and web design at Westminster Adult Educational Service (WAES) and recently, I have started a new exciting degree in web development at SAE Institute.
+
 ### Computer skills
 
 - HTML5
@@ -34,7 +37,7 @@ Passionate for art and technology, and eager to turn this passion into a career.
 Volunteer for the Graphic and Web department at Waes.
 
 
-### Tranferable skills
+### Working skills
 
 I spent the last 20 years working in  hospitality. As a chef I developed a strong understandig of staging tasks, organizing section, and yet puntuality on delivery with attention for details.
 
@@ -43,6 +46,10 @@ I spent the last 20 years working in  hospitality. As a chef I developed a stron
 
 *2014-2018*
 - Chef Private Family (UK)
+
+<hr>
+
+<a href="#" download>*Dowload PDF*</a>
 
 </article> 
 

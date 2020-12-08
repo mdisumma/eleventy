@@ -177,7 +177,7 @@ main article h3 {
   margin-top: 1.2em;
   margin-bottom: 0.5em;
   font-family: "Gruppo", cursive;
-  font-size: 2em;
+  font-size: 1.7em;
 }
 main article h4 {
   font-family: "Montserrat", sans-serif;
@@ -200,7 +200,11 @@ main article em {
   font-family: "Montserrat", sans-serif;
   font-size: 0.8em;
 }
+main article a {
+  color: #666666;
+}
 main article p {
+  font-size: 0.95em;
   word-spacing: 0.1em;
 }
 
