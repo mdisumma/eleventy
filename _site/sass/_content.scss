@@ -22,7 +22,7 @@ main {
             background-color: $header;
             a {
                 text-decoration: none;
-                color: $color;
+                color: $neutral;
             }
             a:hover {
                 text-decoration: underline;
@@ -79,7 +79,7 @@ main {
             color: lighten($neutral, 30);
         }
         p {
-            font-size: 0.95em;;
+            font-size: 0.9em;;
             word-spacing: 0.1em;
         }
        
