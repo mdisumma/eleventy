@@ -7,7 +7,7 @@ articletitle: Journal
 
 <main> 
 <ol> 
-  <li><a href="#blog-1"></a>Career aspiration</li>
+  <li><a href="#blog-1">Career aspiration</a></li>
   <li><a href="#blog-2">Learning experience</a></li>
   <li><a href="#blog-3">Strength and weaknesses</a></li>
   <li><a href="#blog-4">Personal development</a></li>
