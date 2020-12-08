@@ -11,10 +11,10 @@ main {
         max-width: $desktop;
         margin: 1em auto;
         li {
-            color: darken($color, 40);
+            color: darken($color, 60);
             a {
                 text-decoration: none;
-                color: darken($color, 40);
+                color: darken($color, 60);
             }
             a:hover {
                 text-decoration: underline;
