@@ -1,8 +1,7 @@
 main {
     margin:0 auto;
     padding:1em;
-    background-image: linear-gradient(lighten($neutral, 55), lighten($neutral, 35));
-    // background-color:lighten($background, 30);
+    background-color:lighten($background, 30);
     video {
         box-sizing: border-box;
         display:block;
