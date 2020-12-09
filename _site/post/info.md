@@ -53,6 +53,7 @@ I spent the last 20 years working in  hospitality. As a chef I developed a stron
 *2014-2018*
 - Chef Private Family (UK)
 
+<hr>
 
 
 </article> 
