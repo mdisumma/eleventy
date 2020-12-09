@@ -3,6 +3,9 @@ layout: base
 pageTitle: Info
 subtitle: Curriculum
 articletitle: Curriculum
+
+#download
+pdf: "../../assets/Marco-Di-Summa-CV.pdf"
 ---
 
 <main> 
