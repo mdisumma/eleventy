@@ -4,10 +4,10 @@ main {
     padding:2em;
     background-color:lighten($background, 30);
     video {
-        display:block;
-        margin: 3em auto;
-        width: 80%;
-        justify-content: center;
+        display:flex;
+        margin:3em auto;
+        border: 1em solid $header;
+        max-width: 500px;
     }
     ol {
         display:flex;

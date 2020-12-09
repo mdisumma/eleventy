@@ -141,10 +141,10 @@ main {
   background-color: #7f7f7f;
 }
 main video {
-  display: block;
+  display: flex;
   margin: 3em auto;
-  width: 80%;
-  justify-content: center;
+  border: 1em solid #959595;
+  max-width: 500px;
 }
 main ol {
   display: flex;
