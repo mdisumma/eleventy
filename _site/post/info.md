@@ -40,7 +40,7 @@ Passionate for art and technology, and eager to turn this passion into a career.
 
 ### Volunteer
 *2018-2020* 
-Volunteer for the Graphic and Web department at Waes.
+- Volunteer for the Graphic and Web department at Waes.
 
 
 ### Working skills
