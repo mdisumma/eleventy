@@ -1,4 +1,7 @@
 nav  {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
     width: 100%;
     font-family: $header-style;
     background-color: $neutral;
