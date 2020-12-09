@@ -137,14 +137,15 @@ nav ul li a:hover {
 }
 main {
   margin: 0 auto;
-  padding: 2em;
+  padding: 3em;
   background-color: #7f7f7f;
 }
 main video {
-  display: flex;
+  box-sizing: border-box;
+  display: block;
   margin: 3em auto;
   border: 1em solid #959595;
-  max-width: 500px;
+  max-width: 620px;
 }
 main ol {
   display: flex;
@@ -224,11 +225,21 @@ main article p {
     font-size: 0.9em;
     padding: 1.5em;
   }
+  main video {
+    margin: 2em auto;
+    border: 1em solid #959595;
+    max-width: 80%;
+  }
 }
 @media (max-width: 620px) {
   main {
     font-size: 0.8em;
     padding: 1em;
+  }
+  main video {
+    margin: 2em auto;
+    border: 1em solid #959595;
+    max-width: 100%;
   }
   main ol {
     display: none;
