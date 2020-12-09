@@ -138,7 +138,7 @@ nav ul li a:hover {
 main {
   margin: 0 auto;
   padding: 1em;
-  background-color: #7f7f7f;
+  background-image: linear-gradient(#a5a5a5, #727272);
 }
 main video {
   box-sizing: border-box;
