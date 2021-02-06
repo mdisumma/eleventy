@@ -107,6 +107,7 @@ nav ul li {
   font-size: 1em;
   display: flex;
   padding: 1em 0.8em;
+  transition: 2s;
 }
 nav ul li a {
   text-decoration: none;
@@ -114,8 +115,10 @@ nav ul li a {
   color: #c8c8c8;
   transition: 2s;
 }
-nav ul li a:hover {
-  background-color: rgba(255, 255, 255, 0.4);
+nav ul li:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+nav ul li:hover a:hover {
   color: white;
   font-weight: 600;
   text-decoration: underline;

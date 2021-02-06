@@ -17,14 +17,17 @@ nav  {
             font-size: 1em;
             display:flex;
             padding:1em 0.8em;
+            transition: 2s;
             a {
             text-decoration: none;
             text-transform: uppercase;
             color:$color;
             transition: 2s;
             }
+        }    
+        li:hover {
+            background-color: rgba(255, 255, 255, 0.2);   
             a:hover {
-                background-color: rgba(255, 255, 255, 0.4);
                 color:lighten($color, 50);
                 font-weight:600;
                 text-decoration: underline;
